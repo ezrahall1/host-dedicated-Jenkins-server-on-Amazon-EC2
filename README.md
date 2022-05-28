@@ -42,7 +42,8 @@ Once you have successfully connected to your EC2 instance using Putty you should
 
 <H3>Step 3 – Install Jenkins</H3>
 To ensure that your software packages are up to date on your instance, use the following command to perform a quick software update:
-[ec2-user ~]$ sudo yum update –y
+
+  -[ec2-user ~]$ sudo yum update –y
 
 
 <H3>Step 3 – Creating bash script and variables</H3>
