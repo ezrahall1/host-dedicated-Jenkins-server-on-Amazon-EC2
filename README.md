@@ -96,23 +96,25 @@ Once the installation is complete, Create First Admin User, click Save and Conti
 
 <img src="https://i.imgur.com/y7c7Dau.png" height="80%" width="80%" alt="Image 6"/>
 
-<img src="https://i.imgur.com/tGHagsx.png" height="80%" width="80%" alt="Image 6"/>
+<img src="https://i.imgur.com/tGHagsx.png" height="80%" width="80%" alt="Image 7"/>
+
+On the left-hand side, click Manage Jenkins, and then click Manage Plugins. Click on the Available tab, and then enter Amazon EC2 plugin at the top right.
+Select the checkbox next to Amazon EC2 plugin, and then click Install without restart.
+
+<img src="https://i.imgur.com/cYMCPYv.png" height="80%" width="80%" alt="Image 8"/>
+
+Once the installation is done, click Back to Dashboard.
+Click on Configure a cloud.
 
 
 
+Click Add a new cloud, and select Amazon EC2. A collection of new fields appears.
+Fill out all the fields. (Note: You will have to Add Credentials of the kind AWS Credentials.)
+
+<img src="https://i.imgur.com/7syZfaI.png" height="80%" width="80%" alt="Image 9"/>
 
 
-<H3>Step 3 – Creating bash script and variables</H3>
-The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh .
 
-<img src="https://i.imgur.com/nb0aNT5.png" height="80%" width="80%" alt="Image 5"/>
-
-Once you have enter your script you would need to save it and make the bash script is executable by running command chmod +x testscript.sh.
-Now you are able to run the bash script using the command ./testscript.sh
-
-<img src="https://i.imgur.com/WtDE4tp.png" height="80%" width="80%" alt="Image 6"/>
-
-<H3>Step 4 – Configure Jenkins</H3>
 
 
 </p>
