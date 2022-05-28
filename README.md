@@ -1,7 +1,8 @@
 <h1>Host a dedicated Jenkins server on Amazon EC2</h1>
 
 <h2>Description</h2>
-In this project I will demonstrate how to create a simple bash script and execute it. Bash script is an important part of process automation in Linux. It saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even schedule them for automatic execution.
+This project will demonstrate how to host a dedicated Jenkins Server on Amazon EC2.
+Jenkins is an open-source automation server that integrates with a number of AWS Services, such as AWS CodeCommit, AWS CodeDeploy, Amazon EC2 Spot, and Amazon EC2 Fleet. 
 <br />
 
 
