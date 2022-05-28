@@ -76,11 +76,11 @@ You can check the status of the Jenkins service using the command:
 
 <H3>Step 4 – Configure Jenkins</H3>
 
+Jenkins is now installed and running on your EC2 instance. To configure Jenkins:
 
+- Connect to http://<your_server_public_DNS>:8080 from your favorite browser. You will be able to access Jenkins through its management interface:
 
-
-
-
+<img src="https://i.imgur.com/9Jzkg1Q.png" height="80%" width="80%" alt="Image 4"/>
 
 <H3>Step 3 – Creating bash script and variables</H3>
 The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh .
