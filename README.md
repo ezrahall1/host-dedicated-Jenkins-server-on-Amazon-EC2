@@ -78,7 +78,7 @@ You can check the status of the Jenkins service using the command:
 
 Jenkins is now installed and running on your EC2 instance. To configure Jenkins:
 
-- Connect to http://<your_server_public_DNS>:8080 from your favorite browser. You will be able to access Jenkins through its management interface:
+- Connect to http://<your_server_public_DNS>:8080 from your browser. You will be able to access Jenkins through its management interface:
 
 <img src="https://i.imgur.com/9Jzkg1Q.png" height="80%" width="80%" alt="Image 4"/>
 
@@ -112,9 +112,6 @@ Click Add a new cloud, and select Amazon EC2. A collection of new fields appears
 Fill out all the fields. (Note: You will have to Add Credentials of the kind AWS Credentials.)
 
 <img src="https://i.imgur.com/7syZfaI.png" height="80%" width="80%" alt="Image 9"/>
-
-
-
 
 
 </p>
