@@ -86,6 +86,11 @@ Use the following command to display this password:
 
 - [ec2-user ~]$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
+The Jenkins installation script directs you to the Customize Jenkins page. Click Install suggested plugins.
+Once the installation is complete, Create First Admin User, click Save and Continue.
+
+
+
 <img src="https://i.imgur.com/7Oo0i0y.png" height="80%" width="80%" alt="Image 5"/>
 
 
