@@ -82,6 +82,21 @@ Jenkins is now installed and running on your EC2 instance. To configure Jenkins:
 
 <img src="https://i.imgur.com/9Jzkg1Q.png" height="80%" width="80%" alt="Image 4"/>
 
+Use the following command to display this password:
+
+- [ec2-user ~]$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+<img src="https://i.imgur.com/7Oo0i0y.png" height="80%" width="80%" alt="Image 5"/>
+
+
+<img src="https://i.imgur.com/y7c7Dau.png" height="80%" width="80%" alt="Image 6"/>
+
+<img src="https://i.imgur.com/tGHagsx.png" height="80%" width="80%" alt="Image 6"/>
+
+
+
+
+
 <H3>Step 3 – Creating bash script and variables</H3>
 The next step is you need to create the bash script name for example testscript.sh and create the variables in a text editor using this command nano testscript.sh .
 
