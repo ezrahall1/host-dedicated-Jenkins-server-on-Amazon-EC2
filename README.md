@@ -56,11 +56,11 @@ Import a key file from Jenkins-CI to enable installation from the package:
 
 Install Java:
 
--[ec2-user ~]$ sudo amazon-linux-extras install java-openjdk11 -y
+- [ec2-user ~]$ sudo amazon-linux-extras install java-openjdk11 -y
 
 Install Jenkins:
 
--[ec2-user ~]$ sudo yum install jenkins -y
+- [ec2-user ~]$ sudo yum install jenkins -y
 
 Enable the Jenkins service to start at boot:
 
