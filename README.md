@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This project will demonstrate how to host a dedicated Jenkins Server on Amazon EC2.
-Jenkins is an open-source automation server that integrates with a number of AWS Services, such as AWS CodeCommit, AWS CodeDeploy, Amazon EC2 Spot, and Amazon EC2 Fleet. 
+Jenkins is an open-source automation server that integrates with a number of AWS services, such as AWS CodeCommit, AWS CodeDeploy, Amazon EC2 Spot, and Amazon EC2 Fleet. 
 <br />
 
 
