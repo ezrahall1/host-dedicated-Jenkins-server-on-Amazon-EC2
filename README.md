@@ -16,6 +16,10 @@ Jenkins is an open-source automation server that integrates with a number of AWS
 - <b>AWS</b>
 - <b>Putty</b>
 
+<h2>YouTube Demonstration </h2>
+
+[Host a dedicated Jenkins server on Amazon EC2 - video walk-through guide](https://youtu.be/mhXhpfkeBbM)
+
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create security group</H3>
 Once you have log into the AWS account you would need to navigate to EC2, click on security groups.
